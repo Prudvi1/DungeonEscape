@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: unity-ads:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unity-ads.aar/12f09e1941c8171ca5f33da9d50dc12e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unity-ads.aar/12f09e1941c8171ca5f33da9d50dc12e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
